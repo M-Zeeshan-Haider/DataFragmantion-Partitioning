@@ -4,6 +4,7 @@ Tools and Techniques used:
 1.	POSTGRES for database
 2.	PYTHON for programming
 3.	PSYCOPG as database driver for POSTGRES 
+
 These concepts are built upon open source relational database postgres. I have used python for programming and psycopg as database driver for postgres. 
 PostgreSQL:
 PostgreSQL is one the most popular open source object-relational database system & heavily being used in industry. On the other hand python is widely used multiple programming paradigm language. If you want to work in PostgreSQL using python, the best choice would be Psycopg. Psycopg is the most popular PostgreSQL adapter for python. It fully implements Python DB API 2.0. Psycopg2 is designed for multi-threaded applications and maintaines its own connection pool.
